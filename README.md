@@ -5,7 +5,7 @@
 
 ---
 ## 💻 Link to Project : 
-[(file:///C:/Users/Danie/Desktop/John%20Hopkins%20University%20Data%20Science%20Certification/Project-7/PA1_template.html)]
+file:///C:/Users/Danie/Desktop/John%20Hopkins%20University%20Data%20Science%20Certification/Project-7/PA1_template.html
 
 
 
